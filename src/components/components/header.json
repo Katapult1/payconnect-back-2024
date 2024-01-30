@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_headers",
+  "info": {
+    "displayName": "header"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "subheader": {
+      "type": "string"
+    }
+  }
+}
